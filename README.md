@@ -9,5 +9,5 @@ The algorithm described in this article aims to produce a better similarity meas
 This is achieved by utilizing the hypergraph manifold created by the images.<br><br>
 
 Each file in "code" folder does a specific step of the described method. <br>
-Last file ("_6_LHRR.py") is the executable and performs the algorithm described (LHRR algorithm).<br>
+Last file ("_6_LHRR.py") is the main file and performs the algorithm described (LHRR algorithm).<br>
 This file imports the rest of the files and calls the methods inside them.
